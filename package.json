@@ -1,0 +1,24 @@
+{
+  "name": "serverless-twitter-cards-dev",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+    ,"build":"gulp"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sashimizakana/serverless-twitter-cards.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sashimizakana/serverless-twitter-cards/issues"
+  },
+  "homepage": "https://github.com/sashimizakana/serverless-twitter-cards#readme",
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "gulp-zip": "^3.0.2"
+  }
+}

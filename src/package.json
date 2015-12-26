@@ -1,0 +1,16 @@
+{
+  "name": "serverless-twitter-cards",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "gulp"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "cheerio-httpcli": "^0.3.8"
+  },
+  "devDependencies": {}
+}
